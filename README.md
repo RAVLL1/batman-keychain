@@ -17,7 +17,11 @@ The 3D model was created entirely in the cloud using Onshape by following these 
 ---
 
 ## 📁 Project Assets
-* **Live 3D Model:** [View the Onshape Document Here](https://cad.onshape.com/documents/8a2a181d525263cbbde77a5e/w/6a4d7c5a7465768ddd3bf215/e/f5b1eac7788ff35c074ce1b0?renderMode=0&uiState=6a74dfaf58da964de8c94011)
+* **Live 3D Model:** https://cad.onshape.com/documents/8a2a181d525263cbbde77a5e/w/6a4d7c5a7465768ddd3bf215/e/f5b1eac7788ff35c074ce1b0?renderMode=0&uiState=6a74dfaf58da964de8c94011
+
+
+
+)
 * `image_8d6273.png`: A screenshot showing the completed CAD model and the feature tree in the Onshape workspace.
 
 ## 🛠 Prerequisites

@@ -12,7 +12,7 @@ The 3D model was created entirely in the cloud using Onshape by following these 
 4. Applied the **Extrude** feature (`Extrude 1`) to give the 2D sketch a solid 3D thickness.
 5. Refined the design (utilizing `Sketch 2` and `Extrude 2` as seen in the feature tree) to finalize the solid body.
 
-<img width="100%" alt="Onshape Batman Design" src="image_8d6273.png" />
+<img width="100%" alt="Onshape Batman Design" src="image.png" />
 
 ---
 

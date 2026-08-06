@@ -24,7 +24,7 @@ To view, edit, or 3D print this project, you will need:
 * **To 3D Print:** Slicing software (e.g., Ultimaker Cura, PrusaSlicer) and access to a 3D Printer.
 
 ## 🚀 How to View and Export
-1. Click the project link in the **Project Assets** section to open the workspace in your browser.
+1. Click the project link in the **files** section to open the workspace in your browser.
 2. Use your mouse to pan, zoom, and rotate to inspect the 3D model.
 3. **To download for 3D printing:**
    * Navigate to the **Parts** section on the bottom left corner (e.g., `Part 1`).
